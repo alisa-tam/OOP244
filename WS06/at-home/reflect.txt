@@ -1,0 +1,16 @@
+Name: Alisa Tam
+Student #: 131580177
+Section OOP244 A
+
+Workshop 6 Reflection
+
+1. The copy assignment operator checks for self-assignment before anything else because
+   if the instance is already self assigned, it can cause the program to behave in an
+   unpredictable way. 
+
+2. I avoided duplication code by creating an additional member function that breaks down
+   the numbers to validate them. This meant that I did not have to repeat this code in
+   other member functions
+
+3. In this lab, I learned how to validate a phone number (which was tricky to figure out).
+   
