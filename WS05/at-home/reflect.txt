@@ -1,0 +1,17 @@
+//Name: Alisa Abramovici
+//Student #: 131580177
+//Section: OOP244 AB
+
+Reflect.txt
+
+1. The operator+ returns a Fraction object, because the parameters are constant
+2. The temporary objects in the tester module are: a, b, c, d, e
+3. The simplifications made to the class are using the reduce function in the * operator,
+   as well as in the += operator 
+4. In this workshop, I learned how to create and use member operators
+
+
+
+
+
+

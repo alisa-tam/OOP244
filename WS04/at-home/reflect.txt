@@ -1,0 +1,22 @@
+Name: Alisa Abramovici
+Student #: 131580177
+Course: OOP244 Section A
+
+Reflection
+
+
+1)	A safe empty state is when instance variables in an object are initialized,
+	meaning they are in a well-definded state from the time of their creation.
+	Another safe empty state is when variables are initialied to a null pointer.
+	
+2)	You can minimize code duplication be re-using functions in code. Like in this
+	exercise, using the display() function.
+	
+3)	The canTravelWith() member function can access the private data of the object
+	referenced in its parameter because public member functions can be used to 
+	access the private members
+
+4)	To ensure that the strncpy() function executes correctly, it needs 2 arrays and
+	the number of charactes to copy.
+
+5)	I learned a lot about constructors and how to use them in code. 
