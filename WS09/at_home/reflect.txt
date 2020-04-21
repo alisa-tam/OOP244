@@ -1,0 +1,15 @@
+Name: Alisa Tam
+Student #: 131580177
+Email: aabramovici@myseneca.ca
+Section: OOP244 A
+
+Reflection - Workshop 9
+
+1. If you put your templated functions in the implementation files, then the program
+   will not compile since the function will not know which type to apply.
+2. Yes, it does work, but the template function needs to be defined before main().
+3. You could have done a bunch of overloaded functions for this project, but you would
+   be duplicating code. The advantage of using templates is that you can use the same
+   function for variable if multiple types, which cuts down on code duplication (and
+   the amount of work you need to do)
+4. Yes, the two templates are equivalent.
