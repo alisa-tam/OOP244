@@ -1,0 +1,12 @@
+Name:Alisa Tam
+Student #: 131580177
+Date: 2018-07-18
+
+Workshop 8 Reflect.txt
+
+1. An Abstract base class is purely virtual, with no implementation, while a concrete class is 
+fully implemented.
+2. The SavingsAccount and ChequingAccount 'credit' and 'debit' functions shadow the Account functions
+of the same name.
+3. I learned what 'virtual' mean, and how to apply it to the code.
+
