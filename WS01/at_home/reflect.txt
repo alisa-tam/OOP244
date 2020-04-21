@@ -1,0 +1,27 @@
+//Name:Alisa Abramovici
+//Student #: 131580177
+//Date:2018-04-16
+//Section: OOP244SAB
+
+1. A namespace is a scope area that can enclose different entities. This is done so when
+programmers develop different parts of an application, the scoping rules make sure there
+is no conflict between similiarly named variables.
+
+2. Header files are needed for because they contain class definitions and function prototypes.
+They are also #include(d) in implementation files, since we cannot include an implementation
+file in another implementation file.
+
+3. You should never compile header files, because they are preproccessed since they are #include(d)
+in the implementation file.  
+
+4. You should never include a .cpp file in another .cpp file because then the modules would
+be highly coupled, and it would give away too much detail about the application.
+
+5. In this workshop, I learned how to use namespaces, and how to use the scope resolution 
+operator in my other files. It also reinforced how to created and reference header files
+in my implementation files. It also got my into the C++ mindset, since i'm still stuck in C!
+
+
+Quiz 0 Reflection
+
+No quiz this week. 

@@ -1,0 +1,16 @@
+- Alisa Abramovici
+- 131580177
+- May 30, 2018
+- At Home
+
+1) We need to create a new dynamic memory since we need to increase the size of the memory. The previous alloted memory had
+limited size, and since we needed a larger size, we allocated new dynamic memory. 
+
+2) We do not need to use the delete operator to deallocate the memory occupied by the name since we only do this for dynamic
+memory. The name has an alloted size, and therefore does not need dynamic allocation/deallocation.
+
+3) The complier knows when definiti9on to call based on the parameters being passed. When there are overloaded functions,
+the complier determines the most appropriate definition to use by comparing the argument types.
+
+4) In the workshop, I learned about overloading functions and how they are applied to code. I also learned how to allocate
+and deallocate dynamic memory. 
