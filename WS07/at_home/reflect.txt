@@ -1,0 +1,12 @@
+Name: Alisa Tam
+Student #: 131580177
+Section: OOP244 AB
+Email: aabramovici@myseneca.ca
+
+
+Workshop 7 Reflection
+
+1. No, the Hero class does not need to know about the existence of the SuperHero class.
+2. Yes, the SuperHero class needs to know about the existence of the Hero Class. (Use resources from Hero class).
+3. When the Hero fought the SuperHero, "Ancient Battle" was printed
+4. I ran both definitions in the main, and they were both complied and seemed valid. So True for both!
